@@ -1,6 +1,6 @@
 # Ising Model with Kawasaki Dynamics
 
-This project consists of a Python program that simulates the 2D Ising model with conserved total magnetization (Kawasaki dynamics). The program create a .gif file that shows the time evolution of the system for a given temperature (k is proportional to 1/T). The length of the lattice and the total number of steps can be modified.
+This project consists of a Python program that simulates the 2D Ising model with conserved total magnetization (Kawasaki dynamics) and periodic boundary conditions. The program create a .gif file that shows the time evolution of the system for a given temperature (k is proportional to 1/T). The length of the lattice and the total number of steps can be modified.
 
 # # Some examples
 
