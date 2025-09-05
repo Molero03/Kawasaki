@@ -4,8 +4,8 @@ This project consists of a Python program that simulates the 2D Ising model with
 
 # # Some examples
 
-Lattice with length L=16, total steps=10^5 (10^2 steps between frames)
+Lattice with length L=16, k=3, total steps=10^5 (10^2 steps between frames)
 ![Kawasaki16](https://github.com/Molero03/Kawasaki/blob/main/kawasaki16.gif)
 
-Lattice with length L=32, total steps=10^7 (10^4 steps between frames)
+Lattice with length L=32, k=3, total steps=10^7 (10^4 steps between frames)
 ![Kawasaki32](https://github.com/Molero03/Kawasaki/blob/main/kawasaki32.gif)
